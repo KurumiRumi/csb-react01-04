@@ -172,3 +172,7 @@
 //   }
 // });
 // console.log(newNameArr);
+
+/**
+ * 三項演算子
+ */
